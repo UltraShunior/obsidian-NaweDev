@@ -1,0 +1,1 @@
+Proviene de las siglas: File Transfer Protocol

@@ -1,0 +1,1 @@
+- [ ] Agregar notas sobre APIs y sus tipos

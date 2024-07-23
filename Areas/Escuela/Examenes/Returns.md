@@ -1,5 +1,5 @@
 
-##### Team: Maximo Aguero & Alexander Quiroga - [[Test June - Topic 1]]
+##### Team: Maximo Aguero & Alexander Quiroga - [[Evaluación junio - tema 1]]
 
 | Ejercicio | Nota | Devolución                                                                                                                                                   |
 | :-------: | :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -18,7 +18,7 @@ if(nota > 1 && nota < 10){
 ```
 
 
-##### Team: Guadalupe Juarez & Oriana Cristaldo - [[Test June - Topic 1]]
+##### Team: Guadalupe Juarez & Oriana Cristaldo - [[Evaluación junio - tema 1]]
 
 | Ejercicio | Nota | Devolución                         |
 | :-------: | :--: | ---------------------------------- |
@@ -28,7 +28,7 @@ if(nota > 1 && nota < 10){
 |     4     |  1   | Incompleto                         |
 |     5     |  1   | Incompleto                         |
 
-##### Team: Leonardo Padial & Damian Martinez - [[Test June - Topic 1]]
+##### Team: Leonardo Padial & Damian Martinez - [[Evaluación junio - tema 1]]
 
 | Ejercicio | Nota | Devolución |
 | :-------: | :--: | ---------- |
@@ -39,7 +39,7 @@ if(nota > 1 && nota < 10){
 |     5     |  1   |            |
 
 
-##### Team: Franco Diaz & Mora Frances - [[Test June - Topic 2]]
+##### Team: Franco Diaz & Mora Frances - [[Evaluación junio - tema 2]]
 
 | Ejercicio | Nota | Devolución                                                                             |
 | :-------: | :--: | -------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ if(nota > 1 && nota < 10){
 |     5     |  10  | Muy bien, estaría bueno que el syso sea mas especifico con la información que muestra. |
 
 
-##### Team: Nahiara Ynsaurralde & Arian Chaparro - [[Test June - Topic 2]]
+##### Team: Nahiara Ynsaurralde & Arian Chaparro - [[Evaluación junio - tema 2]]
 
 | Ejercicio | Nota | Devolución                                                                                                      |
 | :-------: | :--: | --------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ if(nota > 1 && nota < 10){
 |     4     |  9   | Muy bien echo, pero faltaron meses del año en el switch😂                                                       |
 |     5     |  5   | La idea era utilizar un ciclo "for" para buscar en que posicion esta ubicado el numero 11.                      |
 
-##### Team: Luciano Toledo & DIaz Leila & Aguero Martin & Arambarri Mateo - [[Test June - Topic 2]]
+##### Team: Luciano Toledo & DIaz Leila & Aguero Martin & Arambarri Mateo - [[Evaluación junio - tema 2]]
 
 | Ejercicio | Nota | Devolución                                    |
 | :-------: | :--: | --------------------------------------------- |

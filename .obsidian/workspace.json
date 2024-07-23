@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "dfa0d2f638a889a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a16768b9c1265605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab8351d1cdd8e13b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34c51842fb81e34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "719136ae29aefbdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d91fe7cbc737b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3c1e7b661af400",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bc74e3ea7b64a98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "2b01d69884872181",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff27cc124ac3c332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5980b74e66a62f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e1bad2f7d467ae4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5cbb389ba5da479",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "665b3eb4e48a32c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab8351d1cdd8e13b",
+  "lastOpenFiles": [
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/DigitalOcean.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/AWS.md",
+    "Areas/Estudios/Programacíon/Tecnologías/Next.js.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Vercel.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Google Sheets.md",
+    "Areas/Desarrollos/Proyectos  personales/FuchibolApp.md",
+    "Quick Notes.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/MERN.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/MongoDB.md",
+    "Areas/Estudios/Programacíon/Stacks comunes de desarrollo web.md",
+    "Areas/Estudios/Programacíon/Tecnologías/TailwindCSS.md",
+    "Areas/Estudios/Programacíon/Tecnologías/Express.md",
+    "Areas/Estudios/Programacíon/Tecnologías/Node.md",
+    "Areas/Estudios/Programacíon/Tecnologías/React.md",
+    "Areas/Estudios/Programacíon/Tecnologías",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/LAMP.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/ftp.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/MySQL.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/JOTL.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/VPS.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Modelo de Datos Orientado a Documentos.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos/Bases de datos vectoriales.md",
+    "Areas/Estudios/Programacíon",
+    "Areas/Escuela/Examenes/Returns.md",
+    "Untitled.canvas",
+    "Areas/Escuela/Examenes/Evaluación junio - tema 2.md",
+    "Areas/Escuela/Examenes/Evaluación junio - tema 1.md",
+    "Areas/Escuela/Untitled.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos",
+    "Areas/Desarrollos/Proyectos  personales",
+    "Areas/Desarrollos",
+    "Desarrollos",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing"
+  ]
+}

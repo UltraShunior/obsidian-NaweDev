@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 255.5
   },
   "right": {
     "id": "2b01d69884872181",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md"
+                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md"
               }
             }
           }
@@ -148,15 +148,21 @@
   },
   "active": "ab8351d1cdd8e13b",
   "lastOpenFiles": [
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/DigitalOcean.md",
+    "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP.md",
+    "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
+    "Areas/Desarrollos/Proyectos  personales/ERP Personal/Sección CRM.md",
+    "Areas/Desarrollos/Proyectos  personales/ERP Personal/CRM.md",
+    "Areas/Desarrollos/Proyectos  personales/FuchibolApp.md",
+    "Areas/Estudios/Definiciones",
+    "Quick Notes.md",
+    "Areas/Desarrollos/Proyectos  personales/ERP Personal",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Render.md",
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/DigitalOcean.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/AWS.md",
     "Areas/Estudios/Programacíon/Tecnologías/Next.js.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services/Vercel.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Web Services",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Google Sheets.md",
-    "Areas/Desarrollos/Proyectos  personales/FuchibolApp.md",
-    "Quick Notes.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/MERN.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/MongoDB.md",
     "Areas/Estudios/Programacíon/Stacks comunes de desarrollo web.md",
@@ -173,17 +179,11 @@
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Modelo de Datos Orientado a Documentos.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos/Bases de datos vectoriales.md",
     "Areas/Estudios/Programacíon",
-    "Areas/Escuela/Examenes/Returns.md",
     "Untitled.canvas",
-    "Areas/Escuela/Examenes/Evaluación junio - tema 2.md",
-    "Areas/Escuela/Examenes/Evaluación junio - tema 1.md",
-    "Areas/Escuela/Untitled.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos",
     "Areas/Desarrollos/Proyectos  personales",
     "Areas/Desarrollos",
     "Desarrollos",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing"
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos"
   ]
 }

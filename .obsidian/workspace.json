@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b01d69884872181",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md"
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md"
               }
             }
           }
@@ -148,8 +149,18 @@
   },
   "active": "ab8351d1cdd8e13b",
   "lastOpenFiles": [
-    "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 2 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Concepto y dimensión de la Web invisible.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Limitaciones de los buscadores.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
+    "Areas/Escuela/Niveles de Dificultad.md",
+    "Areas/Estudios/Tramo Pedagogico/Educacion, ciencia y Tecnología/Untitled",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología",
+    "Areas/Estudios/Tramo Pedagogico",
     "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP Personal.md",
+    "Areas/Desarrollos/Proyectos  personales/ERP Personal/ERP.md",
     "Areas/Desarrollos/Proyectos  personales/ERP Personal/Sección CRM.md",
     "Areas/Desarrollos/Proyectos  personales/ERP Personal/CRM.md",
     "Areas/Desarrollos/Proyectos  personales/FuchibolApp.md",
@@ -171,19 +182,9 @@
     "Areas/Estudios/Programacíon/Tecnologías/Node.md",
     "Areas/Estudios/Programacíon/Tecnologías/React.md",
     "Areas/Estudios/Programacíon/Tecnologías",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/LAMP.md",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/ftp.md",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/MySQL.md",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/JOTL.md",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/VPS.md",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Modelo de Datos Orientado a Documentos.md",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos/Bases de datos vectoriales.md",
     "Areas/Estudios/Programacíon",
     "Untitled.canvas",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos",
-    "Areas/Desarrollos/Proyectos  personales",
-    "Areas/Desarrollos",
-    "Desarrollos",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos"
+    "Areas/Desarrollos/Proyectos  personales"
   ]
 }

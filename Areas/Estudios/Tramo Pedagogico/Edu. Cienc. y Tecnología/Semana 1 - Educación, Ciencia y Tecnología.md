@@ -1,4 +1,10 @@
 PDF: https://cursos.azulformacionsuperior.com/pluginfile.php/169843/mod_resource/content/4/Unidad-1_.pdf
+
+##### Bibliografía:
+- [globalización.pdf](https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/globalizaci%C3%B3n.pdf?forcedownload=1)
+- [historia de internet.pdf](https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/historia%20de%20internet.pdf?forcedownload=1)
+- [internet como medio de comunicación y guía de lectura..pdf](https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/internet%20como%20medio%20de%20comunicaci%C3%B3n%20y%20gu%C3%ADa%20de%20lectura..pdf?forcedownload=1)
+- [las tics y la escuela.pdf](https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/las%20tics%20y%20la%20escuela.pdf?forcedownload=1)
 ## Introducción
 
 Este documento presenta una introducción a la relación entre educación, ciencia y tecnología en la era contemporánea. Se enfoca en cómo los avances tecnológicos han transformado la sociedad y la necesidad de una reflexión crítica sobre sus impactos.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "2b01d69884872181",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md"
+                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md"
               }
             }
           }
@@ -139,22 +138,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "ab8351d1cdd8e13b",
   "lastOpenFiles": [
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 2 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
-    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Concepto y dimensión de la Web invisible.md",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Limitaciones de los buscadores.md",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md",
-    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
-    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 3 - La brecha digital y su impacto en la educación.md",
+    "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Concepto y dimensión de la Web invisible.md",
     "Areas/Escuela/Niveles de Dificultad.md",
     "Areas/Estudios/Tramo Pedagogico/Educacion, ciencia y Tecnología/Untitled",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología",

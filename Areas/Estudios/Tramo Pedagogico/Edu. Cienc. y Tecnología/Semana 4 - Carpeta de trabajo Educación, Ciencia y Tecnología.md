@@ -1,18 +1,18 @@
 ##### PDF: 
-- https://cursos.azulformacionsuperior.com/pluginfile.php/169852/mod_resource/content/4/unidad-4_.pdf
+- https://cursos.azulformacionsuperior.com/mod/resource/view.php?id=27034
 
-##### Bibliografia
-- https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/globalizaci%C3%B3n.pdf?forcedownload=1
-- https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/historia%20de%20internet.pdf?forcedownload=1
-- https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/internet%20como%20medio%20de%20comunicaci%C3%B3n%20y%20gu%C3%ADa%20de%20lectura..pdf?forcedownload=1
-- https://cursos.azulformacionsuperior.com/pluginfile.php/169844/mod_folder/content/0/las%20tics%20y%20la%20escuela.pdf?forcedownload=1
-
+##### Bibliografia:
+- [burbujas de filtro, hacia una fenomenología](https://cursos.azulformacionsuperior.com/pluginfile.php/169853/mod_folder/content/0/burbujas%20de%20filtro%2C%20hacia%20una%20fenomenolog%C3%ADa%20.pdf?forcedownload=1)
+- [burbujas de filtro, lo que Internet nos esta ocultando.pdf](https://cursos.azulformacionsuperior.com/pluginfile.php/169853/mod_folder/content/0/burbujas%20de%20filtro%2C%20lo%20que%20Internet%20nos%20esta%20ocultando.pdf?forcedownload=1)
+- [que es Web 2.0.pdf](https://cursos.azulformacionsuperior.com/pluginfile.php/169853/mod_folder/content/0/que%20es%20Web%202.0.pdf?forcedownload=1)
 
 ##### Resumen:
-**Introducción:**
+
+**Introducción**
 Este documento introduce el concepto de "burbujas de filtro" en Internet y explora la evolución de la Web 1.0 a la Web 2.0. El objetivo principal es concientizar sobre cómo los algoritmos de búsqueda personalizados pueden limitar nuestra exposición a información diversa y cómo la Web ha evolucionado para ser más interactiva y centrada en el usuario.
 
-**Puntos principales:**
+**Puntos principales**
+
 1. **Burbujas de filtro**
    - Concepto creado por Eli Pariser
    - Describe cómo los algoritmos de personalización limitan nuestra exposición a información diversa
@@ -50,5 +50,6 @@ Este documento introduce el concepto de "burbujas de filtro" en Internet y explo
      - Más interactiva y centrada en el usuario
      - Permite mayor participación y colaboración
 
-**Conclusión:**
+**Conclusión**
+
 El documento destaca la importancia de ser conscientes de cómo los algoritmos de personalización pueden limitar nuestra experiencia en línea y potencialmente reforzar sesgos. También subraya la evolución de la Web hacia un modelo más participativo y centrado en el usuario. Es crucial que los usuarios comprendan estas dinámicas para navegar de manera más efectiva y crítica en el entorno digital actual.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
+                "file": "Areas/Escuela/Guía 13 - Composición/Punto 3 - Monoplaza.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b01d69884872181",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
+                "file": "Areas/Escuela/Guía 13 - Composición/Punto 3 - Monoplaza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
+                "file": "Areas/Escuela/Guía 13 - Composición/Punto 3 - Monoplaza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md"
+                "file": "Areas/Escuela/Guía 13 - Composición/Punto 3 - Monoplaza.md"
               }
             }
           }
@@ -146,8 +147,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a0d91fe7cbc737b3",
+  "active": "ab8351d1cdd8e13b",
   "lastOpenFiles": [
+    "Areas/Escuela/Guía 13 - Composición/Punto 2 - Lapicera.md",
+    "Areas/Escuela/Guía 13 - Composición/Punto 3 - Monoplaza.md",
+    "Areas/Escuela/Guía 13 - Composición/Punto 1 - Imprenta.md",
+    "Areas/Escuela/Guía 13 - Composición/Guía 13 - Composición.md",
+    "Areas/Escuela/Guía 13 - Composición",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 4 - Carpeta de trabajo Educación, Ciencia y Tecnología.md",
     "Areas/Estudios/Tramo Pedagogico/Edu. Cienc. y Tecnología/Semana 1 - Educación, Ciencia y Tecnología.md",
@@ -176,14 +182,9 @@
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Google Sheets.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Stacks de desarrollo/MERN.md",
     "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/MongoDB.md",
-    "Areas/Estudios/Programacíon/Stacks comunes de desarrollo web.md",
-    "Areas/Estudios/Programacíon/Tecnologías/TailwindCSS.md",
-    "Areas/Estudios/Programacíon/Tecnologías/Express.md",
-    "Areas/Estudios/Programacíon/Tecnologías/Node.md",
     "Areas/Estudios/Programacíon/Tecnologías",
     "Areas/Estudios/Programacíon",
     "Untitled.canvas",
-    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos",
-    "Areas/Desarrollos/Proyectos  personales"
+    "Areas/Estudios/Programacíon/DevOps & Cloud Computing/Bases de Datos/Tipos de Bases de datos"
   ]
 }

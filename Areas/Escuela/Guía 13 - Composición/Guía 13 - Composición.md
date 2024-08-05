@@ -11,9 +11,7 @@ En el ejemplo proporcionado, vemos cómo la clase Persona "tiene un" DNI. Esto s
 
 2. Reutilización de código: La clase DNI puede ser utilizada en otros contextos donde se necesite información de identificación.
 
-3. Encapsulación: Los detalles internos de la clase DNI están ocultos para la clase Persona, lo que mejora la seguridad y reduce la complejidad.
-
-4. Flexibilidad: Es más fácil modificar o reemplazar la clase DNI sin afectar directamente a la clase Persona.
+3. Flexibilidad: Es más fácil modificar o reemplazar la clase DNI sin afectar directamente a la clase Persona.
 
 Para implementar la composición en Java:
 
